@@ -1,0 +1,1 @@
+O Script faz o download direto do nginx, extrair e varre os arquivos para imprimir a string ABC

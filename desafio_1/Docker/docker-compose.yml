@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    build:
+      context: ./dir
+      dockerfile: Dockerfile
+    container_name: nginx
+    restart: always
+    ports:
+    - "8080:80"
