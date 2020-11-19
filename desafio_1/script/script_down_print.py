@@ -1,5 +1,4 @@
 #!/bin/python3
-import wget
 import os
 from os import walk
 import shutil 
